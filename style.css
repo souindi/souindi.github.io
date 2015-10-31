@@ -1,12 +1,4 @@
-body{margin:0;padding:0;font: 100 18px 'Roboto', sans-serif;color:#fff;
-  background:#4f7097;
-  background:-moz-radial-gradient(center, ellipse cover,  #6995c6 0%, #4f7097 100%);
-  background:-webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#6995c6), color-stop(100%,#4f7097));
-  background:-webkit-radial-gradient(center, ellipse cover,  #6995c6 0%,#4f7097 100%);
-  background:-o-radial-gradient(center, ellipse cover,  #6995c6 0%,#4f7097 100%);
-  background:-ms-radial-gradient(center, ellipse cover,  #6995c6 0%,#4f7097 100%);
-  background:radial-gradient(ellipse at center,  #6995c6 0%,#4f7097 100%);
-}
+body{background:#4f7097;margin:0;padding:0;font: 100 18px 'Roboto', sans-serif;color:#fff;}
 h1{font-weight:100;}
 b{font-weight:400;}
 a{color:#bef2ff;text-decoration:none;transition:color 0.5s;}
